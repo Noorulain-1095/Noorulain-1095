@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Noor Ul Ain</h1>
-<h3 align="center">A passionate Full Stack JS Developer from Pakistan.</h3>
+<h3 align="center">A passionate Full Stack JS Developer.</h3>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulain-1095&label=Profile%20views&color=0e75b6&style=flat" alt="noorulain-1095" /> </p>
 
-- 🔭 I’m currently working on **JavaScript,Angular,Reactjs,NodeJS, MYSQL, Sequelize,Mongoose.**
+- 🔭 I’m currently working on **JavaScript,VueJS,Angular,Reactjs,NodeJS, MYSQL, Sequelize,Mongoose.**
 
 - 🌱 I’m currently learning **Reactjs**
 
 - 🤝 I’m looking for help with **Reactjs**
 
-- 💬 Ask me about **JavaScript, Angular, Node, Sequelize**
+- 💬 Ask me about **JavaScript, Vue, Angular, Node, Sequelize**
 
 - 📫 How to reach me **dev.noorulain@gmail.com**
 
